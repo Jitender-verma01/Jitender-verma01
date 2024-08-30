@@ -37,7 +37,7 @@ I’m a passionate **Front-End Developer** specializing in React. Currently, I'm
 ### [Social Media Platform](https://github.com/Jitender-verma01/social-media-platform)
 A fully-featured social media platform built using React, Redux, and RESTful APIs. This project showcases advanced state management, component architecture, and responsive design.
 
-### [Tic Tac Toe Game](https://github.com/Jitender-verma01/tic-tac-toe)
+### [Tic Tac Toe Game](https://jitender-verma01.github.io/tic_tac_toe/)
 A classic Tic Tac Toe game built using React. This project demonstrates the use of hooks, state management, and responsive design. It’s a fun and interactive way to play Tic Tac Toe directly in the browser!
 
 
