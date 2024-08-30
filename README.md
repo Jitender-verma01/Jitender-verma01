@@ -37,12 +37,12 @@ I’m a passionate **Front-End Developer** specializing in React. Currently, I'm
 ### [Social Media Platform](https://github.com/Jitender-verma01/social-media-platform)
 A fully-featured social media platform built using React, Redux, and RESTful APIs. This project showcases advanced state management, component architecture, and responsive design.
 
-![Project Preview](https://via.placeholder.com/800x400.png?text=Project+Screenshot+Here)
+![Project Preview]()
 
 ### [Portfolio Website](https://github.com/Jitender-verma01/portfolio-website)
 A sleek and responsive portfolio website that highlights my skills, projects, and experiences. Built with React and styled-components.
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Screenshot+Here)
+![Portfolio Screenshot](https://jitender-verma01.github.io/Portfolio/)
 
 ## 💬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jitendra-kumar-verma-619005238/)
